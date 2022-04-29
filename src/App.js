@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      _-_-_-_
+      Jalla ozin qilll
     </div>
   );
 }
