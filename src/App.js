@@ -4,7 +4,9 @@ import { AntLayout } from './components/Layout/Layout'
 function App() {
   return (
     <div className="App">
-      <AntLayout />
+
+      Azizbek
+      // <AntLayout />
     </div>
   );
 }
